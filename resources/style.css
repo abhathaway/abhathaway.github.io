@@ -4,6 +4,13 @@ p{
 	font-size:20px;
 	color: yellow;
 	}
+	
+a{
+	text-align:center;
+	display:block;
+	font-size:10px;
+	color: yellow;
+	}
 
 h1{
 	text-align:center;
@@ -23,6 +30,12 @@ h3{
 	font-size:28px;
 	}
 	
+h4{
+	text-align:center;
+	color:yellow;
+	font-size:20px;
+	}
+	
 img{
 	margin: auto;
 	display: block;
@@ -37,6 +50,13 @@ ul{
 	color:yellow;
 	background-color:brown;
 	border: 2px solid yellow;
+	}
+	
+ol{
+	color:yellow;
+	border: 2px solid yellow;
+	font-size:20px;
+	line-height:200%;
 	}
 	
 .border{
@@ -57,7 +77,6 @@ ul{
 	position:relative;
 	margin:auto;
 	display: inline-block;
-	float:left;
 	padding:10px;
 }
 
